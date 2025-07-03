@@ -15,10 +15,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Raul-dev-br&show_icons=true&theme=merko&border_color=000000&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Raul-dev-br&show_icons=true&theme=merko&border_color=0d1117&bg_color=0d1117" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-dev-br&layout=compact&theme=merko&border_color=000000&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-dev-br&layout=compact&theme=merko&border_color=0d1117&bg_color=0d1117" />
     </td>
   </tr>
 </table>
