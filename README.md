@@ -4,9 +4,8 @@
 
 - 🌱 Atualmente estou aprendendo Javascript e Lógica de Programação **Javascript**
 
-- 📫 Você me acha através do email **raulferreirapinto41@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 Você me acha através do email **raulferreirapinto41@gmail.com**
 <p align="left">
 </p>
 
