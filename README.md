@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Oi, Eu sou o Raul-dev-br</h1>
 <h3 align="center">Apaixonado por desenvolver softwares de qualidade</h3>
