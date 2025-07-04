@@ -2,7 +2,7 @@
 <h1 align="center">Oi, Eu sou o Raul-dev-br</h1>
 <h3 align="center">Apaixonado por desenvolver softwares de qualidade</h3>
 
-- 🌱 Atualmente estou aprendendo Javascript e Lógica de Programação **Javascript**
+- 🌱 Atualmente estou aprendendo Javascript e Lógica de Programação 
 - 📫 Você me acha através do email **raulferreirapinto41@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
