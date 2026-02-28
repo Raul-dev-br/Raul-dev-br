@@ -48,18 +48,6 @@ Ingressar no mercado como Desenvolvedor Front-end Júnior ou Estagiário, contri
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raul-dev-br&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-dev-br&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Contato
 
 📧 rauldevbr07@gmail.com  
