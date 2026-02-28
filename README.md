@@ -70,6 +70,6 @@ Ingressar no mercado como Desenvolvedor Front-end Júnior ou Estagiário, contri
 ## 📫 Contato
 
 📧 rauldevbr07@gmail.com  
-🔗 (Adicione aqui seu LinkedIn)
+🔗 (https://www.linkedin.com/in/raul-dev-br07/)
 
 
