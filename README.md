@@ -52,16 +52,9 @@ Ingressar no mercado como Desenvolvedor Front-end Júnior ou Estagiário, contri
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Raul-dev-br&show_icons=true&theme=merko&border_color=0d1117&bg_color=0d1117" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-dev-br&layout=compact&theme=merko&border_color=0d1117&bg_color=0d1117" />
-    </td>
-  </tr>
-</table>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raul-dev-br&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-dev-br&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
