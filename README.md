@@ -1,5 +1,5 @@
 
-<h1 align="center">Raul Ferreira</h1>
+<h1 align="center">Raul Ferreira Pinto</h1>
 <h3 align="center">Front-end Developer | JavaScript | Building the path to Full-Stack</h3>
 
 ---
