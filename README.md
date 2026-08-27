@@ -1,56 +1,23 @@
-
-<h1 align="center">Raul Ferreira Pinto</h1>
-<h3 align="center">Front-end Developer | JavaScript | Building the path to Full-Stack</h3>
+# 👋 Olá, eu sou o Raul Ferreira!
 
 ---
 
-## 👨‍💻 Sobre mim
+Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Fatec Campinas. Tenho focado meus estudos na área de programação, construindo projetos práticos para consolidar minha base e evoluir como desenvolvedor.
 
-Sou desenvolvedor Front-end em formação, focado em dominar os fundamentos de JavaScript e construir aplicações web bem estruturadas.
+Fiz o curso de Web Designer (Front-End) no SENAI "Roberto Mange", onde desenvolvi minha base em criação de interfaces web. No momento, busco expandir meus conhecimentos para o Back-End, estudando Node.js e Bancos de Dados Relacionais (PostgreSQL), além de estar aprendendo a linguagem C na faculdade.
 
-Acredito que uma base sólida em lógica, organização de código e boas práticas é o que diferencia um desenvolvedor preparado para crescer no mercado.
-
-Atualmente concentro meus estudos em:
-- Manipulação de DOM
-- Arrays e Objetos em profundidade
-- ES6+
-- Estruturação e modularização de código
-- Consumo de APIs
+## Habilidades
 
 ---
 
-## 🚀 Tecnologias
+💻 **Linguagens:** HTML, CSS, JavaScript, C (Básico/Acadêmico)  
+🌐 **Desenvolvimento Web/Back-End:** Node.js (Em estudo)  
+🗄️ **Banco de Dados:** PostgreSQL (Em estudo)  
+🛠️ **Ferramentas e Versionamento:** Git/GitHub, VSCode  
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
-</p>
+<br>
 
----
+### 👥 Conecte-se comigo
 
-## 📌 Projetos em destaque
-
-🔹 **E-commerce Web Application**  
-Aplicação com listagem dinâmica de produtos, manipulação de dados e organização modular.
-
-🔹 **Projetos de Lógica e Fundamentos JS**  
-Exercícios e aplicações focadas em estrutura de dados e raciocínio lógico.
-
-*(Em constante evolução)*
-
----
-
-## 🎯 Objetivo
-
-Ingressar no mercado como Desenvolvedor Front-end Júnior ou Estagiário, contribuindo com disciplina, evolução rápida e base técnica consistente.
-
----
-
-## 📫 Contato
-
-📧 rauldevbr07@gmail.com  
-🔗 (https://www.linkedin.com/in/raul-dev-br07/)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0082FA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-dev-br07/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulferreirapinto41@gmail.com)
