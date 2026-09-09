@@ -10,8 +10,8 @@ Fiz o curso de Web Designer (Front-End) no SENAI "Roberto Mange", onde desenvolv
 
 ---
 
-💻 **Linguagens:** HTML, CSS, JavaScript, C (Básico/Acadêmico), Python (Em estudo)
-🌐 **Desenvolvimento Web/Back-End:** Node.js (Em estudo)  
+💻 **Linguagens:** HTML, CSS, JavaScript, C (Básico/Acadêmico)
+🌐 **Desenvolvimento Web/Back-End:** Node.js (Em estudo), Python (Em estudo) 
 🗄️ **Banco de Dados:** PostgreSQL (Em estudo)  
 🛠️ **Ferramentas e Versionamento:** Git/GitHub, VSCode  
 
